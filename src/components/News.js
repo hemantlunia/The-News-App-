@@ -34,7 +34,7 @@ const News = (props) => {
 
     useEffect(() => {
         updateNews()
-        // esline-disable-next-line
+        esline-disable-next-line
     },[])
 
     const fetchMoreData = async () => {
